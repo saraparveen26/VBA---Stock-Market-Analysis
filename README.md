@@ -1,10 +1,11 @@
-# VBA-challenge-StockMarket
-VBA Challenge for analyzing Stock Market data
 VBA Challenge – an analysis of Stock Market data
 
 In the second challenge of Data Analytics Bootcamp, I have analyzed data provided on Stock Market using Visual Basic. We were provided with two files: one for testing the code on a smaller data size, and the second containing full data.
 The testing file contained 6 sheets named A through F. The actual bigger file contained 3 sheets containing data for the years 2018, 2019 and 2020.
 I tested my data on both the files and it ran successfully without any errors and the output results were displayed in all sheets on each file. The screenshots submitted show results for each file and each sheet on the respective file. I have captured the screenshots displaying top and bottom of the output results.
+
+ 
+ 
 
 The code starts by setting the loop to run through all worksheets and clearing any previous formatting.
 In the next steps, the number of filled rows are counted and then headers are added and formatted to be bold for columns I through L to display outputs for Ticker, Yearly Change, Percent Change, and Total Stock Volume.
